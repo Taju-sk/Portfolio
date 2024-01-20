@@ -1,0 +1,158 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/gradient-template-background-new-minimalist_483537-4993.jpg?w=1060&t=st=1705643252~exp=1705643852~hmac=f3e049b65becf3a2d23d5979df2465d596cfc7489fb40c6493e070350983e47e");
+    background-size: cover;
+    height: 100%;
+}
+.container-fluid{
+    padding: 0px 90px;
+}
+.logo-img{
+    width: 100px;
+}
+.nav-item a{
+    color: rgb(64, 63, 63);
+    font-size: 18px;
+    margin: 0 30px;
+}
+.navbar{
+    padding: 0 0 4.8rem;
+}
+.nav-link{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.navbar-nav{
+    margin: 0px 20px;
+}
+
+.nav-item a:hover{
+    color: white;
+}
+.info-img{
+    width: 200px ;
+    height: 300px;
+    border-radius: 30px;
+    box-shadow: 2px 3px 60px -7px rgba(0,0,0,0.75);
+
+}
+.info-img:hover{
+    width: 220px;
+    height: 320px;
+    transition: all 0.5s ease-in-out;
+    
+
+}
+.info-container{
+   padding: 30px;
+}
+.info-description{
+    width: 500px;
+    margin-right: 90px;
+    font-family: Roboto;
+}
+.info-heading{
+    font-size: 60px;
+}
+.info-para{
+    font-size: 20px;
+}
+.instagram-img{
+    width: 30px;
+    margin-right: 20px;
+}
+.facebook-img{
+    width: 30px;
+    margin-right: 20px;
+}
+.github-img{
+    width: 30px;
+}
+.instagram-img:hover{
+    width: 35px;
+    transition: all 0.1s ease;
+}
+.facebook-img:hover{
+    width: 35px;
+    transition: all 0.1s ease;
+}
+.github-img:hover{
+    width: 35px;
+    transition: all 0.1s ease;
+}
+.social-media{
+    margin-top: 30px;
+}
+.skills-heading{
+    text-align: center;
+    background-color: white;
+    font-weight: 800;
+    font-style: Roboto;
+}
+.fed-skills{
+    margin-top:40px ;
+    background-color: rgba(61, 54, 54, 0.114);
+    border-radius: 30px;
+    box-shadow: 2px 3px 60px -7px rgba(65, 65, 65, 0.75);
+    width: 300px;
+}
+.fed-heading{
+    padding: 20px 20px 1px;
+    font-family: Arial;
+}
+.hobby-heading{
+    text-align: center;
+    background-color: white;
+    font-weight: 800;
+    font-style: Roboto;
+    margin-top: 30px;
+
+}
+.contact{
+    text-align: center;
+    
+}
+.container{
+    padding: 20px;
+    
+}
+.labell{
+    padding: 20px;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 900;
+}
+.footer{
+    background-color: rgb(75, 62, 54);
+    padding: 50px;
+    text-align: center;
+}
+.mail{
+    text-decoration: none;
+    color: white;
+}
+.button{
+    background-color: rgb(99, 99, 213);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    font-size: 15px;
+    padding: 9px;
+    width: 100px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 14px;
+}
+#fname{
+    width: 500px;
+    padding-left: 10px;
+    margin-left: 18px;
+}
+#subject{
+    width: 500px;
+    height: 200px;
+    padding-left: 10px;
+    margin-left: 18px;
+}
+
+
+
